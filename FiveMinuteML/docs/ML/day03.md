@@ -107,7 +107,7 @@ Reinforcement Learning (RL) is based on **learning through interaction** with an
 :::info ⏱️ 5-Minute Recap
 - **What you learned:** The three main types of Machine Learning  
 - **Why it matters:** Helps choose the right approach for a problem  
-- **What’s next:** Supervised Learning in depth
+- **What’s next:**  Online vs Offline Machine Learning
 :::
 
 ---
